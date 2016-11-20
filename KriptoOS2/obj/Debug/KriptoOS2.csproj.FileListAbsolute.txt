@@ -1,1 +1,9 @@
 D:\KriptoOS2\KriptoOS2\bin\Debug\KriptoOS2.exe.config
+D:\KriptoOS2\KriptoOS2\obj\Debug\KriptoOS2.csprojResolveAssemblyReference.cache
+D:\KriptoOS2\KriptoOS2\obj\Debug\KriptoOS2.Form1.resources
+D:\KriptoOS2\KriptoOS2\obj\Debug\KriptoOS2.Properties.Resources.resources
+D:\KriptoOS2\KriptoOS2\obj\Debug\KriptoOS2.csproj.GenerateResource.Cache
+D:\KriptoOS2\KriptoOS2\bin\Debug\KriptoOS2.exe
+D:\KriptoOS2\KriptoOS2\bin\Debug\KriptoOS2.pdb
+D:\KriptoOS2\KriptoOS2\obj\Debug\KriptoOS2.exe
+D:\KriptoOS2\KriptoOS2\obj\Debug\KriptoOS2.pdb
