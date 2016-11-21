@@ -93,6 +93,7 @@
             this.BtnKripitiraj.TabIndex = 5;
             this.BtnKripitiraj.Text = "Kriptiraj";
             this.BtnKripitiraj.UseVisualStyleBackColor = true;
+            this.BtnKripitiraj.Click += new System.EventHandler(this.BtnKripitiraj_Click);
             // 
             // label1
             // 
@@ -138,6 +139,7 @@
             this.btnDekriptiraj.TabIndex = 10;
             this.btnDekriptiraj.Text = "Dekriptiraj";
             this.btnDekriptiraj.UseVisualStyleBackColor = true;
+            this.btnDekriptiraj.Click += new System.EventHandler(this.btnDekriptiraj_Click);
             // 
             // txtDekriptirani
             // 
